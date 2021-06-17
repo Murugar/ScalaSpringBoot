@@ -1,0 +1,7 @@
+application:
+  name: scalaone
+  package: com.iqmsoft.scalaone
+spring:
+  application:
+    name: ${application.name}
+
